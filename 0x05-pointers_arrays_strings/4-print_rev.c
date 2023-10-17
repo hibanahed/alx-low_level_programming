@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 #include "main.h"
+/**
+ * print_rev - reversed sentence 
+ * @s: string
+ * return: 0
+ */
 
 // Function to reverse a sentence
 void print_rev(char *s) {
